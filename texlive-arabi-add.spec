@@ -1,6 +1,6 @@
 Name:		texlive-arabi-add
-Version:	37709
-Release:	2
+Version:	67573
+Release:	1
 Summary:	Using hyperref and bookmark packages with arabic and farsi languages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arabi-add
