@@ -3,7 +3,7 @@ Version:	67573
 Release:	1
 Summary:	Using hyperref and bookmark packages with arabic and farsi languages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arabi-add
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/arabi-add
 License:	unknown
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arabi-add.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arabi-add.doc.r%{version}.tar.xz
